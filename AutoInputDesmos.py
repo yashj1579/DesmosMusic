@@ -1,3 +1,9 @@
+'''
+Automatically opens Google Chrome
+Automatically searches and opens desmos website
+Automatically enters each note into desmos
+'''
+
 import pyautogui as py
 import time
 import cv2
